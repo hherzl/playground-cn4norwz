@@ -450,7 +450,7 @@ Add the following packages for your project:
 	Go to Tools menu
 	Select Nuget Package Manager
 	Select Package Manager Console
-    Run the following command: **Install-Package CatFactory.EntityFrameworkCore -Version 1.0.0-beta-sun-build35**
+    Run the following command: Install-Package CatFactory.AspNetCore -Version 1.0.0-beta-sun-build37
 
 Save all changes and build the project.
 
