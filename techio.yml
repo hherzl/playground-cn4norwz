@@ -1,6 +1,6 @@
-title : .NET Core ASP Web Project
+title : Scaffolding ASP.NET Core 2 with CatFactory
 plan:
-  - title: ASP .NET Core on Tech.io # Set the page title (only displayed if your contribution has several pages)
+  - title: Scaffolding ASP.NET Core 2 with CatFactory # Set the page title (only displayed if your contribution has several pages)
     statement: markdowns/welcome.md # Set the file path to the page content
 #  - title: Another Page
 #    statement: markdowns/another-page.md
